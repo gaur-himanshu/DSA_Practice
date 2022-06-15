@@ -1,4 +1,4 @@
-package Arrays.Medium;
+package Arrays.Hard;
 
 import java.util.HashMap;
 import java.util.Scanner;
